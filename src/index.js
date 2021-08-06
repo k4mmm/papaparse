@@ -55,7 +55,6 @@ function fetchData() {
                                 return value + "°С"
                             }
                         }
-                        // beginAtZero: true
                     }
                 }
             }
